@@ -1,4 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,اغنيه شاروخان
+#EXTINF:-1 tvg-logo="https://imgur.com/a/hwKPx9f", Video 1
 https://pixeldrain.com/api/file/mnZAtk7W
+
+
+
